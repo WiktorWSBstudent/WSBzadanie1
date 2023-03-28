@@ -1,1 +1,1 @@
-mój pierwszy projekt
+pierwszy projekt
